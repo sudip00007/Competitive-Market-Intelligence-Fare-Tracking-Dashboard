@@ -18,25 +18,6 @@ The dashboard helps airlines, revenue analysts, and business analysts understand
 
 ---
 
-## 📂 Project Structure
-
-```
-Competitive-Market-Intelligence-Dashboard/
-│
-├── code.ipynb                 # Main Jupyter Notebook
-├── Flight_Fare.xlsx           # Input dataset
-├── README.md                  # Project documentation
-│
-├── Generated Charts/
-│   ├── time_of_day_premiums.png
-│   ├── weekday_price_trend.png
-│   ├── airline_price_comparison.png
-│   ├── destination_analysis.png
-│   └── ...
-```
-
----
-
 ## 🛠️ Technologies Used
 
 * Python
